@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="laba05/laba05.vcxproj" />
+  <Project Path="UnitTest1/UnitTest1.vcxproj" />
 </Solution>
